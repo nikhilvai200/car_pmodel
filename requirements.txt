@@ -1,8 +1,0 @@
-streamlit
-pickle
-numpy
-pandas
-sklearn.model_selection
-sklearn.linear_model
-scikit-learn
-
